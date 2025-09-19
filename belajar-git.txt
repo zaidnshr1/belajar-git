@@ -1,0 +1,5 @@
+pengetahuan saya sejauh ini:
+-- apa itu version control system? yaitu sebuah system untuk merekam/snapshot setiap perubahan di project yang kita buat.
+-- apa itu repository? yaitu sebuah folder yang siap untuk menyimpan dan merekam history setiap perubahan project kita.
+-- apa itu git? software version control untuk memungkinan kita merekam dan mengelola file kita.
+-- apa itu github? sebuah web/layanan cloud yang memungkinkan version control secara kolaborasi.
