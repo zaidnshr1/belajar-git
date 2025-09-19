@@ -3,4 +3,4 @@ pengetahuan saya sejauh ini:
 -- apa itu repository? yaitu sebuah folder yang siap untuk menyimpan dan merekam history setiap perubahan project kita.
 -- apa itu git? software version control untuk memungkinan kita merekam dan mengelola file kita.
 -- apa itu github? sebuah web/layanan cloud yang memungkinkan version control secara kolaborasi.
--- apa itu master branch? setahu saya master branch itu ialah cabang dalam version control utama.
+-- kenapa belajar git penting? supaya kita bisa melakukan kolaborasi team dengan efisien dan memiliki history/laporan progress yang terjaga.
