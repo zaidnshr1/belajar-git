@@ -4,3 +4,4 @@ pengetahuan saya sejauh ini:
 -- apa itu git? software version control untuk memungkinan kita merekam dan mengelola file kita.
 -- apa itu github? sebuah web/layanan cloud yang memungkinkan version control secara kolaborasi.
 -- kenapa belajar git penting? supaya kita bisa melakukan kolaborasi team dengan efisien dan memiliki history/laporan progress yang terjaga.
+-- menurut anda bagaimana flow bekerja sama ketika ada project dengan total 3 anggota? kebetulan saat ini saya sedang ada project dengan kawan saya bertiga, rencananya saya mau bagi setiap orang memiliki tanggung jawab beberapa page dan fitur.
